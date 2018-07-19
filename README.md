@@ -1,4 +1,4 @@
-# drone-email
+# drone-chatwork
 
 [![Go Doc](https://godoc.org/github.com/Drillster/drone-email?status.svg)](http://godoc.org/github.com/Drillster/drone-email)
 [![Go Report](https://goreportcard.com/badge/github.com/Drillster/drone-email)](https://goreportcard.com/report/github.com/Drillster/drone-email)
