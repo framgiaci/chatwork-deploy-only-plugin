@@ -1,6 +1,6 @@
 # drone-chatwork
 
-[![Go Doc](http://ci.framgia.vn/api/badges/framgia/ci-v3/status.svg)](http://godoc.org/github.com/Drillster/drone-email)
+[![Go Doc](http://ci.framgia.vn/api/badges/framgia/ci-v3/status.svg)](http://dangminhtruong.space)
 
 Drone plugin to send build status notifications via Chatwork. For the usage with drone  please take a look at [the docs](http://readme.drone.io/).
 
