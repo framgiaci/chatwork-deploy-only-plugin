@@ -1,6 +1,9 @@
 # drone-chatwork
 
 [![Go Doc](http://ci.framgia.vn/api/badges/framgia/ci-v3/status.svg)](http://dangminhtruong.space)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 Drone plugin to send build status notifications via Chatwork. For the usage with drone  please take a look at [the docs](http://readme.drone.io/).
 
