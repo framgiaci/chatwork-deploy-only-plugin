@@ -11,11 +11,5 @@ if [ ! -v ${PLUGIN_DEPLOY} ]; then
         [/info]" \
         "https://api.chatwork.com/v2/rooms/$ROOM_ID/messages" 
 fi
-echo "=======token=("
-echo $CHATWORK_TOKEN
-echo ")"
-echo "---room id=("
-echo $ROOM_ID 
-echo ")"
 
 exit 0
